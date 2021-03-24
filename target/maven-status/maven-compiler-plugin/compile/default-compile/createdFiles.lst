@@ -1,0 +1,5 @@
+com/techgaurav/userportal/controller/UserController.class
+com/techgaurav/userportal/UserPortalApplication.class
+com/techgaurav/userportal/model/User.class
+com/techgaurav/userportal/service/UserService.class
+com/techgaurav/userportal/repository/UserRepository.class
